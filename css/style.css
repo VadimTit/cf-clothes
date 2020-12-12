@@ -952,6 +952,10 @@ h6,
   border: none;
   background-color: black;
   outline: none;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
 }
 
 .burger-menu-button {
